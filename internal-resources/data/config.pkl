@@ -18,6 +18,17 @@ repo {
 
 courses {
   new {
+    name = "pps"
+    microlessons {
+      mls.setup
+      mls.introductionToPython
+      mls.variablesAndDatatypes
+      mls.manipulatingVariables
+      mls.changingDataTypes
+      mls.wrapUp
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
