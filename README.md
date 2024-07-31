@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Introduction to Python](./assets/tktk-hero.png)
 
 ## About
 
@@ -6,27 +6,29 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+None
+
+## Suggested Agenda
+
+| Time      | Activity                                   |
+| --------- | ------------------------------------------ |
+| 0:00–0:30 | Welcome + Introduction to Python           |
+| 0:30–0:45 | Variables and Data Types                   |
+| 0:45–0:55 | Break                                      |
+| 0:55–1:25 | Manipulating Variables                     |
+| 1:20–1:50 | Changing Data Types                        |
+| 1:50–2:00 | Wrapping Up Q&A and Exit Ticket Completion |
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                        | -- | -- |                                         |
-
-## Level Up content
-
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+| Lesson                                                           | Skills                                 |
+| ---------------------------------------------------------------- | -------------------------------------- |
+| [Setup](./setup/README.md)                                       | Setting up the development environment |
+| [Introduction to Python](./introduction-to-python/README.md)     | tktk skills covered                    |
+| [Variables and Data Types](./variables-and-data-types/README.md) | tktk skills covered                    |
+| [Manipulating Variables](./manipulating-variables/README.md)     | tktk skills covered                    |
+| [Changing Data Types](./changing-data-types/README.md)           | tktk skills covered                    |
+| [Wrap Up](./wrap-up/README.md)                                   | tktk skills covered                    |
 
 ## References
 

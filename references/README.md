@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![Introduction to Python - References](./assets/hero.png)
 
 ## Lesson references
 

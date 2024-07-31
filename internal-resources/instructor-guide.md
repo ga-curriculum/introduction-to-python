@@ -1,8 +1,68 @@
 # ![Instructor Guide](../assets/instructor-guide.png)
 
-tktk Information to help instructors deliver this content should be added here. This file should not be removed, even if there is no content to place here immediately, and the following content should be retained regardless of how much content is in this file.
+# Introduction to Python
 
----
+## Overview
+
+In this lesson, students will be introduced to executing Python code in a Jupyter Notebook environment. They’ll learn variables and data types along with string formatting and concatenation.
+
+**Duration:** 120 minutes
+
+## Learning Objectives
+
+In this lesson students will:
+
+- Explain the value of Python.
+- Use Jupyter Notebook to execute basic Python programs.
+- Use operators to define and manipulate variables.
+- Differentiate between data types in Python.
+
+## Pre-Class Materials and Preparation
+
+**For remote classrooms**: Virtual breakout rooms and Slack may be needed to facilitate the partner exercise and discussions.
+
+As you plan for your lesson:
+
+- Consider how you’ll create pairs for the partner exercise (randomly, or with pre-assigned partners).
+- Determine how (if at all) exercise timing may need to be adjusted.
+- Prepare screenshots and answers to exercises in advance so that they can be easily shared in Slack during your lecture.
+
+**Pre-Work Review**: Many of the concepts covered in this class will recap what students learned in the pre-work.
+
+Specifically these topics:
+
+- Introduction to Python
+- Data Types in Python
+- Manipulating Variables in Python
+- Control Flow in Python
+- Functions in Python
+- Objects and Classes
+- Error Handling in Python
+
+We recommend reviewing the pre-work lessons to understand what students will come to class knowing.
+
+For review or extension topics, review the notes in the pre-work for recommendations on how to teach the concept. Leverage the discussions, exercises, and knowledge checks to gauge students’ understanding of concepts. Adjust your approach to the lesson overall based on how students do with these exercises.
+
+## Suggested Agenda
+
+| Time      | Activity                                   |
+| --------- | ------------------------------------------ |
+| 0:00–0:30 | Welcome + Introduction to Python           |
+| 0:30–0:45 | Variables and Data Types                   |
+| 0:45–0:55 | Break                                      |
+| 0:55–1:25 | Manipulating Variables                     |
+| 1:20–1:50 | Changing Data Types                        |
+| 1:50–2:00 | Wrapping Up Q&A and Exit Ticket Completion |
+
+## Jupyter Notebook
+
+The exercises referenced in this lesson can be found in the [Python Workbooks + Data folder]().
+
+Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
+
+If students feel that they are able to confidently solve the challenges in the workbook, you can quickly skim through the lesson content and have them only complete the challenges.
+
+<hr>
 
 🏗️ **Under Construction**
 

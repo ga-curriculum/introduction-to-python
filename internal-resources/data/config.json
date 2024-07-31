@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk",
+    "friendlyName": "Introduction to Python",
+    "name": "introduction-to-python",
     "type": "Lesson"
   },
   "courses": [
@@ -20,15 +20,33 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Introduction to Python",
+          "dirName": "introduction-to-python",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
-          "type": "Level Up content",
+          "friendlyName": "Variables and Data Types",
+          "dirName": "variables-and-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Manipulating Variables",
+          "dirName": "manipulating-variables",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Changing Data Types",
+          "dirName": "changing-data-types",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],
