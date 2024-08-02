@@ -7,7 +7,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to identify data types using the `type()` function, perform type casting to convert variables between compatible data types, and troubleshoot common type-related errors in Python code.
 
-# Changing Data Types (30 min)
+## Changing Data Types (30 min)
 
 ## Data Types in Python
 

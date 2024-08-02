@@ -8,7 +8,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to create and name variables in Python, understand the rules and best practices for variable naming, and recognize and use basic data types (strings, integers, floats, and booleans) in simple Python programs.
 
-# Variables and Data Types (15 min)
+## Variables and Data Types (15 min)
 
 ## Variables
 
