@@ -5,7 +5,6 @@
   </h1>
 </div>
 
-
 **Learning objective:** By the end of this lesson, students will be able to create and name variables in Python, understand the rules and best practices for variable naming, and recognize and use basic data types (strings, integers, floats, and booleans) in simple Python programs.
 
 ## Variables and Data Types (15 min)
@@ -18,7 +17,7 @@
 best_programming_language = "python"
 ```
 
-![Code Image]()TKTK
+![Code Image]() TKTK
 
 > 🍎 Variables are fundamental to making logical sense of how individual lines of code combine into complex programs. If we need the computer to "remember" anything, it should be a variable!
 
@@ -53,7 +52,7 @@ Variable names cannot:
 
 - Contain **spaces**.
 
-![Brain Image]()TKTK
+![Brain Image]() TKTK
 
 > 🍎 Variables are case sensitive - `num` and `Num` would be two different variables.
 
@@ -80,9 +79,9 @@ my_number = 10
 
 | Data Type | Explanation                                                 | Examples                                                        |
 | --------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
-| String    | A collection of characters representing a text-based value. | `my_planet = "earth"`<br> `secret_password = "dN&e84$3j%dbF"`        |
-| Integer   | Any whole number without decimal points.                    | `students = 11`<br> `bakers_dozen = 13`                    |
-| Float     | Numbers including points after the decimal.                 | `gigawatts = 1.21` <br>`low_low_price = 1.99`                  |
+| String    | A collection of characters representing a text-based value. | `my_planet = "earth"`<br> `secret_password = "dN&e84$3j%dbF"`   |
+| Integer   | Any whole number without decimal points.                    | `students = 11`<br> `bakers_dozen = 13`                         |
+| Float     | Numbers including points after the decimal.                 | `gigawatts = 1.21` <br>`low_low_price = 1.99`                   |
 | Boolean   | True or false values.                                       | `python_is_readable = True`<br> `programming_is_simple = False` |
 
 <br>

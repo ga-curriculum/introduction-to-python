@@ -26,7 +26,7 @@ By the end of this lesson, you will be able to:
 - Explain the value of Python.
 - Use Jupyter Notebook to execute basic Python programs.
 
-![Clipboard Image]()TKTK
+![Clipboard Image]() TKTK
 
 ---
 
@@ -45,7 +45,7 @@ In this module will revisit and build upon these topics:
 
 ## Guided Walk-Through: Our First Jupyter Cell (10 min) TKTK
 
-Throughout our Python journey, we’ll use **Jupyter Notebook** for coding exercises. 
+Throughout our Python journey, we’ll use **Jupyter Notebook** for coding exercises.
 
 Let’s open the notebook for this lesson and execute the first cell to learn about Python's founding principles known as the Zen of Python.
 
