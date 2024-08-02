@@ -1,4 +1,9 @@
-# ![Introduction to Python](../assets/tktk-hero.png)
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">Introduction to Python</span>
+  </h1>
+</div>
 
 ## About
 

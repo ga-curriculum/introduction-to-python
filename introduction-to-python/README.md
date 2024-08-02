@@ -1,8 +1,13 @@
-# ![Introduction to Python - Introduction to Python](./assets/hero.png)
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">Introduction to Python</span>
+  </h1>
+</div>
 
-# Introduction to Python (30 min)
+## Getting Started (30 min)
 
-## Overview
+### Overview
 
 In this lesson, we will introduce you to Python and guide you through executing your first Python code using Jupyter Notebook. We will explore the basics of variables and data types, which form the foundation for all Python programming.
 
@@ -20,20 +25,16 @@ By the end of this lesson, you will be able to:
 
 - Explain the value of Python.
 - Use Jupyter Notebook to execute basic Python programs.
-- Differentiate between data types in Python.
-- Use operators to define and manipulate variables.
 
 ![Clipboard Image]()TKTK
 
-> 🍎 Today’s topics may seem basic, but they are the building blocks of more complex programs. Understanding data types is crucial as they can often be the source of bugs.
-
 ---
 
-## What We’ll Practice Today
+## What We’ll Practice
 
 This class connects to and reinforces topics from the pre-work.
 
-We will revisit and build upon these topics:
+In this module will revisit and build upon these topics:
 
 - Creating and manipulating variables.
 - Understanding Python data types.
@@ -63,7 +64,6 @@ Let’s apply what we learned in the pre-work. This exercise will help us unders
 1. Review the exercises in today’s Jupyter Notebook.
 2. Attempt any that seem immediately doable.
 3. Rate your confidence level on today’s subjects from 1–5.
-
 
 ---
 

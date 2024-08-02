@@ -1,4 +1,9 @@
-# ![Introduction to Python - References](./assets/hero.png)
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">References</span>
+  </h1>
+</div>
 
 ## Lesson references
 

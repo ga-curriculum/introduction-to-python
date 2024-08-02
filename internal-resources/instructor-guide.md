@@ -1,4 +1,9 @@
-# ![Instructor Guide](../assets/instructor-guide.png)
+<div id="hero">
+  <h1>
+    <span class="prefix"></span>
+    <span class="headline">Instructor Guide</span>
+  </h1>
+</div>
 
 # Introduction to Python
 

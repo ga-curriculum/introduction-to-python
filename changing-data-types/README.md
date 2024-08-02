@@ -1,8 +1,45 @@
-# ![Introduction to Python - Changing Data Types](./assets/hero.png)
+<div id="hero">
+  <h1>
+    <span class="headline">Introduction to Python</span>
+    <span class="subhead">Changing Data Types</span>
+  </h1>
+</div>
 
 **Learning objective:** By the end of this lesson, students will be able to identify data types using the `type()` function, perform type casting to convert variables between compatible data types, and troubleshoot common type-related errors in Python code.
 
 # Changing Data Types (30 min)
+
+## Data Types in Python
+
+Python is a true object-oriented programming language.
+
+Every piece of data in Python is an object that's an instance of a _class_.
+
+> 📚 A _class_ is simply a blueprint for creating objects. This means that a string object will have different attributes and methods than an integer object because the string was created from a different blueprint than the integer.
+
+### Checking the Data Type of an Object
+
+We can use the `type()` function to see what class the data was created from:
+
+```python
+print(type("hello"))
+# prints: <class 'str'>
+```
+
+```python
+print(type(25))
+# prints: <class 'int'>
+```
+
+```python
+print(type(3.14159))
+# prints: <class 'float'>
+```
+
+```python
+print(type(True))
+# prints: <class 'bool'>
+```
 
 ## You’re Just Not My `type()`
 
@@ -39,6 +76,18 @@ This technique has its limits, however. If we tried converting `"apple"` to an i
 > 🍎 Type casting allows conversion between compatible data types.
 
 ---
+
+## Converting Between Data Types
+
+When the time comes to convert one data type into another, Python provides us with several global functions or predefined classes to do so.
+
+Here are a few of the most commonly used:
+
+```python
+str(item)        # Converts `item` to a string
+int(item, base)  # Converts `item` to an integer with the provided `base`
+float(item)      # Converts `item` to a floating-point number
+```
 
 ## Discussion: Compatible Types TKTK
 
