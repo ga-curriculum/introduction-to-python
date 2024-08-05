@@ -1,19 +1,19 @@
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">Instructor Guide</span>
+  <span class="headline">Introduction to Python</span>
+  <span class="subhead">Instructor Guide</span>
 </h1>
-
-# Introduction to Python
 
 ## Overview
 
-In this lesson, students will be introduced to executing Python code in a Jupyter Notebook environment. They’ll learn variables and data types along with string formatting and concatenation.
+In this Module, students will be introduced to executing Python code in a Jupyter Notebook environment. They’ll learn variables and data types along with string formatting and concatenation.
 
-**Duration:** 120 minutes
+| Module                 | Duration |
+| ---------------------- | -------- |
+| Introduction to Python | 120 min  |
 
 ## Learning Objectives
 
-In this lesson students will:
+In this Module students will:
 
 - Explain the value of Python.
 - Use Jupyter Notebook to execute basic Python programs.
@@ -22,13 +22,13 @@ In this lesson students will:
 
 ## Pre-Class Materials and Preparation
 
-**For remote classrooms**: Virtual breakout rooms and Slack may be needed to facilitate the partner exercise and discussions.
+**For remote classrooms**: Virtual breakout rooms and Chat may be needed to facilitate the partner exercise and discussions.
 
 As you plan for your lesson:
 
 - Consider how you’ll create pairs for the partner exercise (randomly, or with pre-assigned partners).
 - Determine how (if at all) exercise timing may need to be adjusted.
-- Prepare screenshots and answers to exercises in advance so that they can be easily shared in Slack during your lecture.
+- Prepare screenshots and answers to exercises in advance so that they can be easily shared in Chat during your lecture.
 
 **Pre-Work Review**: Many of the concepts covered in this class will recap what students learned in the pre-work.
 
@@ -37,10 +37,6 @@ Specifically these topics:
 - Introduction to Python
 - Data Types in Python
 - Manipulating Variables in Python
-- Control Flow in Python
-- Functions in Python
-- Objects and Classes
-- Error Handling in Python
 
 We recommend reviewing the pre-work lessons to understand what students will come to class knowing.
 
@@ -59,7 +55,7 @@ For review or extension topics, review the notes in the pre-work for recommendat
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Workbooks + Data folder]().
+The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
 
 Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
 
