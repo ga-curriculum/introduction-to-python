@@ -1,9 +1,7 @@
-<div id="hero">
-  <h1>
-    <span class="headline">Introduction to Python</span>
-    <span class="subhead">Wrap Up</span>
-  </h1>
-</div>
+<h1>
+  <span class="headline">Introduction to Python</span>
+  <span class="subhead">Wrap Up</span>
+</h1>
 
 ## Wrapping Up (10 min)
 

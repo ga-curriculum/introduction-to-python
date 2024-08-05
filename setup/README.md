@@ -1,9 +1,7 @@
-<div id="hero">
-  <h1>
-    <span class="headline">Introduction to Python</span>
-    <span class="subhead">Setup</span>
-  </h1>
-</div>
+<h1>
+  <span class="headline">Introduction to Python</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Before you can complete the exercises in this module you will need to have the following installed and configured on your computer:
 

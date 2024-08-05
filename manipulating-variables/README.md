@@ -1,9 +1,7 @@
-<div id="hero">
-  <h1>
-    <span class="headline">Introduction to Python</span>
-    <span class="subhead">Manipulating Variables</span>
-  </h1>
-</div>
+<h1>
+  <span class="headline">Introduction to Python</span>
+  <span class="subhead">Manipulating Variables</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use various operators to manipulate variable values, perform string concatenation and interpolation, update variables dynamically, and understand the importance of using comments to document their code effectively.
 

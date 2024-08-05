@@ -1,9 +1,7 @@
-<div id="hero">
-  <h1>
-    <span class="headline">Introduction to Python</span>
-    <span class="subhead">Changing Data Types</span>
-  </h1>
-</div>
+<h1>
+  <span class="headline">Introduction to Python</span>
+  <span class="subhead">Changing Data Types</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to identify data types using the `type()` function, perform type casting to convert variables between compatible data types, and troubleshoot common type-related errors in Python code.
 
