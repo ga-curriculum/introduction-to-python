@@ -1,0 +1,25 @@
+<!-- ! Do not delete or rename this file! -->
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Introduction to Python</span>
+</h1>
+
+## About
+
+In this lesson, we will introduce you to Python and guide you through executing your first Python code using Jupyter Notebook. We will explore the basics of variables and data types, which form the foundation for all Python programming.
+
+## Content
+
+| Lesson                                                            | Skills                                                                                     |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Setup](../setup/README.md)                                       | Setting up the development environment                                                     |
+| [Introduction to Python](../introduction-to-python/README.md)     | Understanding Python’s value, using Jupyter Notebook, executing basic Python programs, differentiating data types, defining and manipulating variables |
+| [Variables and Data Types](../variables-and-data-types/README.md) | Defining and using variables, understanding and applying different data types, best practices for variable naming, understanding Python’s primitive data types |
+| [Manipulating Variables](../manipulating-variables/README.md)     | Using operators for arithmetic and string operations, concatenating strings, string interpolation, re-assigning variable values, using comments, basic debugging with `print()` |
+| [Changing Data Types](../changing-data-types/README.md)           | Understanding type errors, using `type()` function, type casting, converting between data types, identifying and fixing common errors |
+| [Wrap Up](../wrap-up/README.md)                                   | Recapping Python fundamentals, reviewing concepts, preparing for next steps in learning Python |
+
+
+## References
+
+📖 [Reference Materials](../references/README.md)

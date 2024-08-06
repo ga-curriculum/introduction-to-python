@@ -29,7 +29,6 @@ In this lesson, we will introduce you to Python and guide you through executing 
 | [Manipulating Variables](./manipulating-variables/README.md)     | Using operators for arithmetic and string operations, concatenating strings, string interpolation, re-assigning variable values, using comments, basic debugging with `print()` |
 | [Changing Data Types](./changing-data-types/README.md)           | Understanding type errors, using `type()` function, type casting, converting between data types, identifying and fixing common errors |
 | [Wrap Up](./wrap-up/README.md)                                   | Recapping Python fundamentals, reviewing concepts, preparing for next steps in learning Python |
-| **Total content**                                          |                                                                                         |
 
 ## References
 
