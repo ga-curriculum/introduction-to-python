@@ -102,7 +102,7 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 
 ## Solo Exercise: 1.5 Code Fast and Break Things (15 min) TKTK
 
-Dealing with errors is part of everyday life in Python. Let’s explore some common mistakes in Section 1.5 of the Jupyter Notebook.
+Dealing with errors is part of everyday life in Python. Let’s explore some common mistakes in **Section 1.5** of the Jupyter Notebook.
 
 ![Exclamation Mark Image]() TKTK
 
@@ -112,7 +112,7 @@ Dealing with errors is part of everyday life in Python. Let’s explore some com
 
 Researching how to do something new is an irreplaceable skill in programming. Even if you don’t totally understand what’s going on, you still need to be able to find code snippets in documentation and use them to solve problems!
 
-Section 1.6 of the Jupyter Notebook challenges us to find four distinct methods of achieving the same objective — save us, Stack Overflow!
+**Section 1.6** of the Jupyter Notebook challenges us to find four distinct methods of achieving the same objective — save us, Stack Overflow!
 
 > 🍎 This exercise emphasizes the importance of research in programming. Complete this exercise as homework if needed.
 
