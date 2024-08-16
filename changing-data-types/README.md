@@ -5,7 +5,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to identify data types using the `type()` function, perform type casting to convert variables between compatible data types, and troubleshoot common type-related errors in Python code.
 
-## Changing Data Types (30 min)
+| Lesson              | Duration |
+| ------------------- | -------- |
+| Changing Data Types | 30 min   |
 
 ## Data Types in Python
 
@@ -55,9 +57,7 @@ If you’re unsure what data type a variable contains, you can use the `type()` 
 print( type(mystery_variable) )
 ```
 
-> 🍎 Using `type()` and `print()` helps identify data types and avoid type errors.
-
----
+> 💡 Using `type()` and `print()` helps identify data types and avoid type errors.
 
 ## ...But I Can Change!
 
@@ -71,9 +71,7 @@ str(2) + "apple"
 
 This technique has its limits, however. If we tried converting `"apple"` to an integer, we’d get another error as that just doesn’t make sense.
 
-> 🍎 Type casting allows conversion between compatible data types.
-
----
+> 💡 Type casting allows conversion between compatible data types.
 
 ## Converting Between Data Types
 
@@ -87,7 +85,10 @@ int(item, base)  # Converts `item` to an integer with the provided `base`
 float(item)      # Converts `item` to a floating-point number
 ```
 
-## Discussion: Compatible Types TKTK
+<div class="activity discussion">
+  <h2 class="title">Compatible Types</h2>
+  <span class="minutes"></span>
+</div>
 
 Of the four data types we’ve learned so far, **which do you think can be converted into each other and which cannot?**
 
@@ -98,22 +99,22 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 
 ![Question Mark Image]() TKTK
 
----
-
-## Solo Exercise: 1.5 Code Fast and Break Things (15 min) TKTK
+<div class="activity solo-exercise">
+  <h2 class="title">1.5 Code Fast and Break Things</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Dealing with errors is part of everyday life in Python. Let’s explore some common mistakes in **Section 1.5** of the Jupyter Notebook.
 
 ![Exclamation Mark Image]() TKTK
 
----
-
-## Group Exercise: 1.6 How Many Ways to Print With Variables? (15 min) TKTK
+<div class="activity group-exercise">
+  <h2 class="title">1.6 How Many Ways to Print With Variables?</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Researching how to do something new is an irreplaceable skill in programming. Even if you don’t totally understand what’s going on, you still need to be able to find code snippets in documentation and use them to solve problems!
 
 **Section 1.6** of the Jupyter Notebook challenges us to find four distinct methods of achieving the same objective — save us, Stack Overflow!
 
-> 🍎 This exercise emphasizes the importance of research in programming. Complete this exercise as homework if needed.
-
----
+> 💡 This exercise emphasizes the importance of research in programming. Complete this exercise as homework if needed.

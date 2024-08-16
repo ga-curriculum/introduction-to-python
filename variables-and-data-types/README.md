@@ -5,7 +5,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to create and name variables in Python, understand the rules and best practices for variable naming, and recognize and use basic data types (strings, integers, floats, and booleans) in simple Python programs.
 
-## Variables and Data Types (15 min)
+| Lesson                   | Duration |
+| ------------------------ | -------- |
+| Variables and Data Types | 15 min   |
 
 ## Variables
 
@@ -17,9 +19,7 @@ best_programming_language = "python"
 
 ![Code Image]() TKTK
 
-> 🍎 Variables are fundamental to making logical sense of how individual lines of code combine into complex programs. If we need the computer to "remember" anything, it should be a variable!
-
----
+> 💡 Variables are fundamental to making logical sense of how individual lines of code combine into complex programs. If we need the computer to "remember" anything, it should be a variable!
 
 ## Updating Variables
 
@@ -36,9 +36,7 @@ You can even use the previous value when re-assigning!
 my_current_age = my_current_age + 1
 ```
 
-> 🍎 Use re-assignment to update variables dynamically based on program logic.
-
----
+> 💡 Use re-assignment to update variables dynamically based on program logic.
 
 ## Restrictions on Variable Names
 
@@ -52,9 +50,7 @@ Variable names cannot:
 
 ![Brain Image]() TKTK
 
-> 🍎 Variables are case sensitive - `num` and `Num` would be two different variables.
-
----
+> 💡 Variables are case sensitive - `num` and `Num` would be two different variables.
 
 ## Naming Conventions and Best Practices
 
@@ -69,9 +65,7 @@ Variable names cannot:
 my_number = 10
 ```
 
-> 🍎 Coming up with sensible variable names can take some time and thought, but this will save you a lot of confusion later on.
-
----
+> 💡 Coming up with sensible variable names can take some time and thought, but this will save you a lot of confusion later on.
 
 ## Primitive Data Types in Python
 
@@ -84,13 +78,12 @@ my_number = 10
 
 <br>
 
-> 🍎 There are many more data types to come, but these provide the fundamental building blocks for all information stored in Python programs. Refer to [Python's built-in types documentation](https://docs.python.org/3/library/stdtypes.html) for a comprehensive list and to see the attributes and methods available to all of them.
+> 💡 There are many more data types to come, but these provide the fundamental building blocks for all information stored in Python programs. Refer to [Python's built-in types documentation](https://docs.python.org/3/library/stdtypes.html) for a comprehensive list and to see the attributes and methods available to all of them.
 
----
-
-## Knowledge Check!
-
-### Identify the Data Types
+<div class="activity knowledge-check">
+  <h2 class="title">Identify the Data Types</h2>
+  <span class="minutes">1 min</span>
+</div>
 
 Match each value to its correct data type:
 
@@ -99,9 +92,10 @@ Match each value to its correct data type:
 - True
 - 7.2
 
----
-
-## Solo Exercise: 1.2 Introduce Yourself (10 min) TKTK
+<div class="activity solo-exercise">
+  <h2 class="title">1.2 Introduce Yourself</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 In Cell 1.2, we've already set up a message printed to the console. However, if we were to execute it right now, you’d see an error. To get this message to work, we have to define the following variables with string type values:
 
@@ -111,4 +105,4 @@ In Cell 1.2, we've already set up a message printed to the console. However, if 
 
 Don’t worry about fully understanding what we’ve done to have the message show up — we'll be covering that throughout this lesson!
 
-> 🍎 This exercise allows practice with creating variables.
+> 💡 This exercise allows practice with creating variables.

@@ -5,7 +5,9 @@
 
 **Learning objective:** By the end of this lesson, students will be able to use various operators to manipulate variable values, perform string concatenation and interpolation, update variables dynamically, and understand the importance of using comments to document their code effectively.
 
-## Manipulating Variables (25 min)
+| Lesson                 | Duration |
+| ---------------------- | -------- |
+| Manipulating Variables | 25 min   |
 
 ## Operators
 
@@ -20,9 +22,7 @@ We've seen the **assignment operator** in action, but there are other operators 
 | `%`    | Modulus        | Produces the remainder from division.                      |
 | `**`   | Exponent       | Raises the first number to the power of the second number. |
 
-> 🍎 Understanding these operators is crucial for manipulating variable values effectively.
-
----
+> 💡 Understanding these operators is crucial for manipulating variable values effectively.
 
 ## Concatenating Strings
 
@@ -38,9 +38,10 @@ flavor = "grapefruit"
 favorite_drink = flavor + beverage_type
 ```
 
----
-
-## Discussion: A Problem With Concatenation TKTK
+<div class="activity discussion">
+  <h2 class="title">A Problem With Concatenation</h2>
+  <span class="minutes">2 min</span>
+</div>
 
 There’s a good chance that our first solution will end up being:
 
@@ -54,13 +55,11 @@ beverage_type = "sparkling water"
 flavor = "grapefruit"
 ```
 
-> 🍎 Think about adding a space in the middle as a separate string, not stored in any variable. There are multiple solutions.
+> 💡 Think about adding a space in the middle as a separate string, not stored in any variable. There are multiple solutions.
 
 ```python
 favorite_drink = flavor + " " + beverage_type
 ```
-
----
 
 ## Concatenation vs. String Interpolation
 
@@ -84,9 +83,7 @@ The message variable equates to:
 Hello there, Professor Park.
 ```
 
-> 🍎 F-strings make your code cleaner and easier to read.
-
----
+> 💡 F-strings make your code cleaner and easier to read.
 
 ## Math operations
 
@@ -117,8 +114,6 @@ print(result)
 ```
 
 Everything after the decimal is removed.
-
----
 
 ## Shortcut Assignment Operators
 
@@ -174,21 +169,20 @@ you can use either set of quotes
 
 Multiline comments are often used to document what a function or module does; therefore, they are sometimes referred to as _docstrings_.
 
-> 🍎 Comments are crucial for understanding and maintaining code.
+> 💡 Comments are crucial for understanding and maintaining code.
 > Well-commented code makes life easier for anyone reading your programs in the future, including yourself!
 > There will be times when you have to return to your old code and you’ll have no idea how it works or why you wrote it the way you did unless you added comments at the time.
 
----
-
-## Solo Exercise: 1.3 Operators and Updating Variables (10 min) TKTK
+<div class="activity solo-exercise">
+  <h2 class="title">1.3 Operators and Updating Variables</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 Let’s practice with a birthday calculator trick in the Jupyter Notebook by following the instructions in the comments.
 
 ![Calculator Image]() TKTK
 
-> 🍎 Use this exercise to solidify your understanding of operators and variable re-assignment.
-
----
+> 💡 Use this exercise to solidify your understanding of operators and variable re-assignment.
 
 ## Printing to the Console
 
@@ -200,9 +194,10 @@ If something isn’t working, we can always use some `print()` statements to inv
 print(favorite_drink)
 ```
 
----
-
-## Group Exercise: 1.4 Python Mad Libs (10 min) TKTK
+<div class="activity group-exercise">
+  <h2 class="title">1.4 Python Mad Libs</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 In this exercise, we’ll practice combining strings together and including variables in string messages.
 
