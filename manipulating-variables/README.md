@@ -38,6 +38,8 @@ flavor = "grapefruit"
 favorite_drink = flavor + beverage_type
 ```
 
+<br>
+
 <div class="activity discussion">
   <h2 class="title">A Problem With Concatenation</h2>
   <span class="minutes">2 min</span>
@@ -173,6 +175,8 @@ Multiline comments are often used to document what a function or module does; th
 > Well-commented code makes life easier for anyone reading your programs in the future, including yourself!
 > There will be times when you have to return to your old code and you’ll have no idea how it works or why you wrote it the way you did unless you added comments at the time.
 
+<br>
+
 <div class="activity solo-exercise">
   <h2 class="title">1.3 Operators and Updating Variables</h2>
   <span class="minutes">10 min</span>
@@ -193,6 +197,8 @@ If something isn’t working, we can always use some `print()` statements to inv
 ```python
 print(favorite_drink)
 ```
+
+<br>
 
 <div class="activity group-exercise">
   <h2 class="title">1.4 Python Mad Libs</h2>

@@ -37,6 +37,8 @@ In this module will revisit and build upon these topics:
 
 > 💡 The pre-work helps you come into the classroom with a solid foundational understanding of the basics. We’re going to practice and reinforce those topics and then start to build upon them.
 
+<br>
+
 <div class="activity guided-walkthrough">
   <h2 class="title">Our First Jupyter Cell</h2>
   <span class="minutes">10 min</span>
@@ -52,6 +54,8 @@ import this
 
 > 💡 Executing the `import this` command reveals the Zen of Python, emphasizing principles like "Simple is better than complex." and "Readability counts."
 
+<br>
+
 <div class="activity solo-exercise">
   <h2 class="title">Jupyter Notebook Review</h2>
   <span class="minutes">10 min</span>
@@ -62,6 +66,8 @@ Let’s apply what we learned in the pre-work. This exercise will help us unders
 1. Review the exercises in today’s Jupyter Notebook.
 2. Attempt any that seem immediately doable.
 3. Rate your confidence level on today’s subjects from 1–5.
+
+<br>
 
 <div class="activity discussion">
   <h2 class="title">Why Python?</h2>

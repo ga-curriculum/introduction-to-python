@@ -80,6 +80,8 @@ my_number = 10
 
 > 💡 There are many more data types to come, but these provide the fundamental building blocks for all information stored in Python programs. Refer to [Python's built-in types documentation](https://docs.python.org/3/library/stdtypes.html) for a comprehensive list and to see the attributes and methods available to all of them.
 
+<br>
+
 <div class="activity knowledge-check">
   <h2 class="title">Identify the Data Types</h2>
   <span class="minutes">1 min</span>
@@ -91,6 +93,8 @@ Match each value to its correct data type:
 - 6
 - True
 - 7.2
+
+<br>
 
 <div class="activity solo-exercise">
   <h2 class="title">1.2 Introduce Yourself</h2>

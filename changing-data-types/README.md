@@ -85,6 +85,8 @@ int(item, base)  # Converts `item` to an integer with the provided `base`
 float(item)      # Converts `item` to a floating-point number
 ```
 
+<br>
+
 <div class="activity discussion">
   <h2 class="title">Compatible Types</h2>
   <span class="minutes"></span>
@@ -99,6 +101,8 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 
 ![Question Mark Image]() TKTK
 
+<br>
+
 <div class="activity solo-exercise">
   <h2 class="title">1.5 Code Fast and Break Things</h2>
   <span class="minutes">15 min</span>
@@ -107,6 +111,8 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 Dealing with errors is part of everyday life in Python. Let’s explore some common mistakes in **Section 1.5** of the Jupyter Notebook.
 
 ![Exclamation Mark Image]() TKTK
+
+<br>
 
 <div class="activity group-exercise">
   <h2 class="title">1.6 How Many Ways to Print With Variables?</h2>
