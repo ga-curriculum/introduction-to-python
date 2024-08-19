@@ -42,7 +42,7 @@ favorite_drink = flavor + beverage_type
 
 <div class="activity discussion">
   <h2 class="title">A Problem With Concatenation</h2>
-  <span class="minutes">2 min</span>
+  <span class="minutes"></span>
 </div>
 
 There’s a good chance that our first solution will end up being:
