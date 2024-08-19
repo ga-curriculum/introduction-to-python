@@ -3,23 +3,52 @@
   <span class="subhead">Setup</span>
 </h1>
 
-Before you can complete the exercises in this module you will need to have the following installed and configured on your computer:
-
-| Tool                        | Version | How to Download or Access                                                                                                     |
-| --------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Python3                     | Latest  | [Download and Installation instructions](https://www.python.org/downloads/)                                                   |
-| Anaconda + Jupyter Notebook | Latest  | Download [Anaconda Navigator](https://www.anaconda.com/download) for a full suite of Python tools, including Jupyter Notebook |
-
 ## Setup
 
-The practice exercises for this lesson can be found in the `01. Introduction to Python` file of the [Python Fundamentals Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises) directory.
+The practice exercises for this lesson can be found in the `01. Introduction to Python` file of the [Python Fundamentals Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises) repository.
 
-### 1. Prepare Your Environment
-- **Fork** and **clone** the repository to your local machine.
-- Ensure that you can open the project in **VS Code**.
+### Prepare Your Environment
 
-### 2. Verify Your Setup
-- Before the lesson, confirm that all files are accessible and that your development environment is configured correctly.
+1. **Navigate to the Cloned Repository**:
 
-### 3. Be Ready to Code
-- Make sure you're set up and ready to start coding along during the lesson.
+   - After cloning, navigate into the directory of the repository:
+
+   ```bash
+   cd python-fundamentals-exercises
+   ```
+
+2. **Activate Your Virtual Environment**:
+
+   - Ensure you're using the correct Python environment by activating the `ga-env` environment:
+
+   ```bash
+   conda activate ga-env
+   ```
+
+   - You should see `(ga-env)` at the beginning of your terminal prompt, indicating that the environment is active.
+
+### Open the Exercises in VS Code
+
+1. **Open VS Code**:
+
+   - Launch Visual Studio Code.
+
+2. **Open the Repository Folder**:
+
+   - In VS Code, go to **File > Open Folder...** and navigate to the directory where you cloned the repository.
+
+   - Select the repository folder (e.g., `python-fundamentals-exercises`) and click **Open**.
+
+3. **Select Your Python Environment**:
+
+   - Ensure that the `ga-env` environment is selected. Press <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> to open the Command Palette.
+
+   - Start typing `Python: Select Interpreter` and select it.
+
+   - Choose `ga-env` from the list.
+
+4. **Open the Practice Exercises**:
+
+   - Navigate to the `01. Introduction to Python` file within the cloned repository.
+
+   - Double-click to open the file and review the exercises.
