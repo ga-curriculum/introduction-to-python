@@ -5,7 +5,7 @@
 
 ## Setup
 
-The practice exercises for this lesson can be found in the `01. Introduction to Python` file of the [Python Fundamentals Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises) repository.
+The practice exercises for this lesson can be found in the `01. Introduction to Python.ipynb` file of the [Python Fundamentals Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-fundamentals-exercises) repository.
 
 ### Prepare Your Environment
 
@@ -49,6 +49,6 @@ The practice exercises for this lesson can be found in the `01. Introduction to 
 
 4. **Open the Practice Exercises**:
 
-   - Navigate to the `01. Introduction to Python` file within the cloned repository.
+   - Navigate to the `01. Introduction to Python.ipynb` file within the cloned repository.
 
    - Double-click to open the file and review the exercises.
