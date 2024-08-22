@@ -184,7 +184,7 @@ Multiline comments are often used to document what a function or module does; th
 
 Let’s practice with a birthday calculator trick in the Jupyter Notebook by following the instructions in the comments.
 
-![Calculator Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 Use this exercise to solidify your understanding of operators and variable re-assignment.
 
@@ -207,4 +207,4 @@ print(favorite_drink)
 
 In this exercise, we’ll practice combining strings together and including variables in string messages.
 
-![Paper and Pen Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->

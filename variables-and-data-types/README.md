@@ -17,7 +17,7 @@
 best_programming_language = "python"
 ```
 
-![Code Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 Variables are fundamental to making logical sense of how individual lines of code combine into complex programs. If we need the computer to "remember" anything, it should be a variable!
 
@@ -48,7 +48,7 @@ Variable names cannot:
 
 - Contain **spaces**.
 
-![Brain Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 Variables are case sensitive - `num` and `Num` would be two different variables.
 

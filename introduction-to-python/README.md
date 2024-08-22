@@ -24,7 +24,7 @@ By the end of this lesson, you will be able to:
 - Explain the value of Python.
 - Use Jupyter Notebook to execute basic Python programs.
 
-![Clipboard Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 ## What We’ll Practice
 

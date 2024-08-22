@@ -9,7 +9,13 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                                                                               | **Looking Ahead**                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **In today’s class we:**                                                                                                                                                                                | **On your own:**                                                                                           |
-| - Explained the value of Python.<br>- Used Jupyter Notebook to execute basic Python programs.<br>- Used operators to define and manipulate variables.<br>- Differentiated between data types in Python. | - Ensure that you’ve completed the Python pre-work. <br><br>**Next Lesson:**<br>- Variables and Data Types |
+| **Recap**                                                                                                                                                                                               | **Looking Ahead** |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **In today’s class we:**                                                                                                                                                                                | **On your own:**  |
+| - Explained the value of Python.<br>- Used Jupyter Notebook to execute basic Python programs.<br>- Used operators to define and manipulate variables.<br>- Differentiated between data types in Python. |                   |
+
+### Exit Tickets
+
+Please take the time to complete any **Exit Ticket Surveys** provided by your instructional team.
+
+![Exit Tickets](./assets/exit-ticket.png)

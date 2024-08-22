@@ -99,7 +99,7 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 - Floats
 - Booleans
 
-![Question Mark Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 
@@ -110,7 +110,7 @@ Of the four data types we’ve learned so far, **which do you think can be conve
 
 Dealing with errors is part of everyday life in Python. Let’s explore some common mistakes in **Section 1.5** of the Jupyter Notebook.
 
-![Exclamation Mark Image]() TKTK
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 
