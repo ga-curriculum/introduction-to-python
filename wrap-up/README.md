@@ -9,10 +9,10 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                                                                               | **Looking Ahead** |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| **In today’s class we:**                                                                                                                                                                                | **On your own:**  |
-| - Explained the value of Python.<br>- Used Jupyter Notebook to execute basic Python programs.<br>- Used operators to define and manipulate variables.<br>- Differentiated between data types in Python. |                   |
+| **Recap**                                                                                                                                                                                               | **Looking Ahead**                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **In today’s class we:**                                                                                                                                                                                | **On your own:**                                              |
+| - Explained the value of Python.<br>- Used Jupyter Notebook to execute basic Python programs.<br>- Used operators to define and manipulate variables.<br>- Differentiated between data types in Python. | - Work through any unfinished exercises in Jupyter Notebooks. |
 
 ### Exit Tickets
 
